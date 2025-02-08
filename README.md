@@ -4,10 +4,10 @@
 Welcome to my GitHub profile! I'm passionate about web development, front-end technologies, and continuously learning new things. Here you'll find a mix of projects, experiments, and collaborations.
 
 ## 🚀 About Me
-- 🔭 Currently working on: **Movie wiki**
+- 🔭 Currently working on: **Animly**
 - 🌱 Learning: **Java, Next.js etc**
 - 🎯 Goal: Build scalable, responsive, and interactive web applications
-- 🛠️ Projects: **Movie wiki , Weather app, color dashboard and some basic website in HTML & CSS**
+- 🛠️ Projects: **Animly, Movie wiki , Weather app, color dashboard and some basic website in HTML & CSS**
 
 ## 🧰 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm passionate about web development, front-end te
 - **Tools:** Git, VS Code, Figma, Vercel, Ai
 
 ## 📈 Projects
+- **🦁 Animly** - Modern Minimalist Animal Encyclopedia.
 - **🎬 Movie Wiki** - A movie information website similar to IMDb with real-time data and dynamic search..
 - **☁️ Weather App** - A weather application that fetches real-time data using a weather API.
 - **🖥️ HTML & CSS Landing Pages** - Various responsive landing pages built using HTML and CSS.
