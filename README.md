@@ -5,12 +5,12 @@ Welcome to my GitHub profile! I'm passionate about web development, front-end te
 
 ## 🚀 About Me
 - 🔭 Currently working on: **Animly**
-- 🌱 Learning: **Java, Next.js etc**
+- 🌱 Learning: **Backend**
 - 🎯 Goal: Build scalable, responsive, and interactive web applications
-- 🛠️ Projects: **Animly, Movie wiki , Weather app, color dashboard and some basic website in HTML & CSS**
+- 🛠️ Projects: **Samaa, Animly, Movie wiki , Weather app, color dashboard and some basic website in HTML & CSS**
 
 ## 🧰 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Next.js
 - **Backend:** Node.js and Django (coming soon)
 - **Languages:** Python, JavaScript, C++ and Java
 - **Tools:** Git, VS Code, Figma, Vercel, Ai
