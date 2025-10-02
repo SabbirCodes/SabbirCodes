@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 ### I'm Sabbir
 
 Welcome to my GitHub profile! I'm passionate about web development, front-end technologies, and continuously learning new things. Here you'll find a mix of projects, experiments, and collaborations.
