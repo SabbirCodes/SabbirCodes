@@ -1,30 +1,23 @@
-# Hi there!
-### I'm Sabbir
+# Hi, I'm Sabbir
 
-Welcome to my GitHub profile! I'm passionate about web development, front-end technologies, and continuously learning new things. Here you'll find a mix of projects, experiments, and collaborations.
+Full-Stack Developer passionate about building fast, scalable, and user-friendly web applications. I enjoy turning ideas into reliable products and continuously learning new technologies.
 
-## 🚀 About Me
-- 🔭 Currently working on: **Animly**
-- 🌱 Learning: **Backend**
-- 🎯 Goal: Build scalable, responsive, and interactive web applications
-- 🛠️ Projects: **Samaa, Animly, Movie wiki , Weather app, color dashboard and some basic website in HTML & CSS**
+## About Me
 
-## 🧰 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Framer-motion, Next.js
-- **Backend:** Node.js and Django (coming soon)
-- **Languages:** Python, JavaScript, C++ and Java
-- **Tools:** Git, VS Code, Figma, Vercel, Ai
+* Building full-stack applications with Next.js, React, Node.js, Express, and MongoDB
+* Interested in creating scalable and intuitive user experiences
+* Always learning and improving my skills
 
-## 📈 Projects
-- **🦁 Animly** - Modern Minimalist Animal Encyclopedia.
-- **🎬 Movie Wiki** - A movie information website similar to IMDb with real-time data and dynamic search..
-- **☁️ Weather App** - A weather application that fetches real-time data using a weather API.
-- **🖥️ HTML & CSS Landing Pages** - Various responsive landing pages built using HTML and CSS.
+## Tech Stack
 
-## 📫 Contact Me
-- **Email:** sabbirhossain.py@gmail.com
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Framer Motion
+**Backend:** Node.js, Express.js, MongoDB
+**Languages:** JavaScript, Python, C++, Java
+**Tools:** Git, GitHub, VS Code, Figma, Vercel
+
+## Contact
+
+* Email: **[sabbirhossain.py@gmail.com](mailto:sabbirhossain.py@gmail.com)**
 
 ---
-
-_Thank you for visiting my profile! Feel free to check out my repositories and connect with me._ 
-
+_Thank you for visiting my profile! Feel free to check out my repositories and connect with me._
