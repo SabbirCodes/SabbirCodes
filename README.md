@@ -10,9 +10,9 @@ Full-Stack Developer passionate about building fast, scalable, and user-friendly
 
 ## Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Framer Motion
-**Backend:** Node.js, Express.js, MongoDB
-**Languages:** JavaScript, Python, C++, Java
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Framer Motion <br>
+**Backend:** Node.js, Express.js, MongoDB <br>
+**Languages:** JavaScript, Python, C++, Java <br>
 **Tools:** Git, GitHub, VS Code, Figma, Vercel
 
 ## Contact
